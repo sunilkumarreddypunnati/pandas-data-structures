@@ -11,8 +11,8 @@ Perfect for learners who want to build a strong foundation in **Pandas** and dat
 
 | 🧪 Task File                                                | 📄 Description                                    | 📷 Output Screenshot |
 |-------------------------------------------------------------|--------------------------------------------------|----------------------|
-| [series.py](pandas%20data%20structure/series.py)            | 🎯 Creating a Pandas Series (default & custom index) | ![series.png](pandas%20data%20structure/series.png) |
-| [dataframe.py](pandas%20data%20structure/dataframe.py)      | ✅ Creating a Pandas DataFrame (default & custom index) | ![dataframe.png](pandas%20data%20structure/dataframe.png) |
+| [series.py](pandas%20data%20structure/series.py)            | 🎯 Creating a Pandas Series (default & custom index) | ![series.png](series.png) |
+| [dataframe.py](pandas%20data%20structure/dataframe.py)      | ✅ Creating a Pandas DataFrame (default & custom index) | ![dataframe.png](dataframe.png) |
 
 ---
 
